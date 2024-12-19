@@ -1,1 +1,4 @@
-{}
+{
+  "2_packaging/test_step2.py::test_pyproject_toml": true,
+  "2_packaging/test_step2.py::test_local_import": true
+}

@@ -3,5 +3,10 @@
   "1_reusable_module/test_step1.py::test_fixed_path",
   "1_reusable_module/test_step1.py::test_has_functions",
   "1_reusable_module/test_step1.py::test_no_ruff_warnings",
-  "1_reusable_module/test_step1.py::test_no_uncommitted_files"
+  "1_reusable_module/test_step1.py::test_no_uncommitted_files",
+  "2_packaging/test_step2.py::test_entry_point",
+  "2_packaging/test_step2.py::test_install",
+  "2_packaging/test_step2.py::test_local_import",
+  "2_packaging/test_step2.py::test_project_structure",
+  "2_packaging/test_step2.py::test_pyproject_toml"
 ]
