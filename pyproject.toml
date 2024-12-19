@@ -1,0 +1,7 @@
+[project]
+name = "miller"
+version = "0.1.0"
+dependencies = [
+    "numpy >= 1.26.4",
+    "matplotlib >= 3.9.2",
+]
