@@ -62,3 +62,5 @@ def test_no_ruff_warnings(tmp_path):
 
     output = subprocess.run(["ruff", "format", "--check", tmp_path])
     assert output.returncode == 0, "ruff format modified file"
+
+
