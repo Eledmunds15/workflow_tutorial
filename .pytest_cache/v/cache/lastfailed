@@ -1,5 +1,4 @@
 {
-  "1_reusable_module/test_step1.py::test_fixed_path": true,
   "1_reusable_module/test_step1.py::test_no_uncommitted_files": true,
   "1_reusable_module/test_step1.py::test_no_ruff_warnings": true
 }

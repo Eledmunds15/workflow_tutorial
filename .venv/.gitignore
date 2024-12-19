@@ -185,4 +185,4 @@ cython_debug/
 .nfs*
 
 # Omit miller.png
-miller.png
+workflow_tutorial\miller.png
