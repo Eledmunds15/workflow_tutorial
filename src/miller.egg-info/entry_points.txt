@@ -1,0 +1,2 @@
+[console_scripts]
+miller = miller.__init__:main

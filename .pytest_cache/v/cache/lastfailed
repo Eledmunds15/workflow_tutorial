@@ -1,3 +1,4 @@
 {
-  "2_packaging/test_step2.py::test_local_import": true
+  "3_inputs/test_step3.py::test_input_file": true,
+  "3_inputs/test_step3.py::test_command_line_args": true
 }
